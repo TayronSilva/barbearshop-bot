@@ -1,0 +1,9 @@
+# Ignorar Node Modules
+node_modules/
+
+# Ignorar arquivos de ambiente (senhas)
+.env
+
+# Ignorar sessões e cache do WhatsApp-Web.js
+.wwebjs_auth/
+.wwebjs_cache/
